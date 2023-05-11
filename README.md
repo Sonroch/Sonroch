@@ -1,4 +1,9 @@
-Sou apaixonado por tecnologia, onde vejo que tudo hoje gira em torno do mundo tecnológico, mais hoje vivo um momento de transição de carreira de motorista de aplicativo para desenvolvedor, finalizei um curso de desenvolvedor de software pela cubos academy onde tive experiências tanto no front-end quanto em back-end, mais estou sempre em busca de novos conhecimento onde hoje faço bacharelado em engenharia de software, e sigo estudando Oracle, tenho interesse em atuar como desenvolvedor back-end.
+Sou apaixonado por tecnologia, pois vejo que tudo hoje gira em torno do mundo tecnológico. Hoje vivo um momento de transição de carreira de motorista de aplicativo para desenvolvedor.
+
+Finalizei um curso de Desenvolvedor de Software Fullstack pela Cubos Academy, e adquiri conhecimento teórico e prático em front-end  e back-end. Algumas das tecnologias que estudei: React, Node.js e Metodologias ágeis.
+
+
+Estou sempre em busca de novos conhecimentos. Hoje estou cursando bacharelado em engenharia de software, atualmente estou estudando Oracle, e tenho interesse em atuar como desenvolvedor fullstack com foco em back-end.
 
 <div align="center">
   <a href="https://github.com/sonroch">
